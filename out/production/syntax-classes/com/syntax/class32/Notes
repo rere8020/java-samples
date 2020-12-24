@@ -1,0 +1,13 @@
+Collections:
+framework in java that implement many different interfaces and classes
+to help us deal with different types of data.
+
+ArrayList
+ArrayList<String> cars = new ArrayList<String>();
+
+1. Arrays can have duplicate objects
+2. Arrays keep insertion order
+3.
+
+Wrapper classes
+List<Integer> arrayList = new ArrayList<>();

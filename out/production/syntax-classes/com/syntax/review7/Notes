@@ -1,0 +1,13 @@
+Three types of variables in Java
+1. local- used within a method, constructor or block of code and
+destroyed from memory when leaving code block. We can't use access modifiers with local
+variables. Must be initialized before we can use them.
+2. instance- Variables which are outside of method, block of code or constructor but within a class.
+They are instance variables because they belong to the instance of the class. They can have different
+values of all the objects in that class. Should avoid using as they stay in memory. Can use instance modifiers private,default,
+protected. Instance values get assigned default values.
+3. static- Declared outside outside of method, constructor or block of code. Use static keyword to specify the type.
+Static variables only allocate memory in one location, objects use the same memory location. We should use when a variable is common
+to all objects.
+
+1:26

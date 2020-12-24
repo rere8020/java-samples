@@ -1,0 +1,7 @@
+Use ArrayList when you mainly want to read and add to the end of ArrayList.
+If you are changing data within the ArrayList it is slower because data
+needs to shift.
+
+
+TODO:
+understand collection FrameWork
