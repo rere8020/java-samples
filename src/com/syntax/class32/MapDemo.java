@@ -13,8 +13,8 @@ public class MapDemo {
         map.put("113", "Jacki");
         map.put("114", "Jon");
         map.put("115", "Jaimee");
-        map.put("115", "Ja-zee");
-        map.put("115", "Jai");
+        map.put("116", "Ja-zee");
+        map.put("117", "Jai");
         System.out.println(map.get("115"));
     }
 }

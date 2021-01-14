@@ -12,10 +12,10 @@ public class TryExcept {
             System.out.println("This will not print if above fails.");
         }
 
-        catch (ArithmeticException t){
+        catch (ArithmeticException e){
             System.out.println("You should not divide by zero");
         }
-        catch (Exception r) {
+        catch (Exception t) {
             System.out.println("An exception occurred.");
         }
 
